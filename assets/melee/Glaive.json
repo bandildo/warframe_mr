@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Cerata",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Falcor",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Glaive",
+        "location": "Nightwave Cred Offerings"
+    },
+    {
+        "name": "Halikar",
+        "location": "Market"
+    },
+    {
+        "name": "Halikar Wraith",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Kestrel",
+        "location": "Market"
+    },
+    {
+        "name": "Pathocyst",
+        "location": "Drop - Zeloid Prelate (Deimos)"
+    },
+    {
+        "name": "Orvius",
+        "location": "Quest - The War Within"
+    },
+    {
+        "name": "Xoris",
+        "location": "Quest - The Deadlock Protocol"
+    }
+]

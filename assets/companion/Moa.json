@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Lambeo",
+        "location": "Syndicate - Solaris United",
+        "redirect": "Model#Lambeo"
+    },
+    {
+        "name": "Nychus",
+        "location": "Syndicate - Solaris United",
+        "redirect": "Model#Nychus"
+    },
+    {
+        "name": "Oloro",
+        "location": "Syndicate - Solaris United",
+        "redirect": "Model#Oloro"
+    },
+    {
+        "name": "Para",
+        "location": "Syndicate - Solaris United",
+        "redirect": "Model#Para"
+    }
+]

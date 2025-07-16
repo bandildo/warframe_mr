@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Acrid",
+    "location": "Clan - Bio Lab"
+  },
+  {
+    "name": "Angstrum",
+    "location": "Market"
+  },
+  {
+    "name": "Arca Scisco",
+    "location": "Clan - Energy Lab"
+  },
+  {
+    "name": "Athodai",
+    "location": "Mission - Venus Proxima Derelicts"
+  },
+  {
+    "name": "Atomos",
+    "location": "Market",
+    "isIngredient": [
+      "Twin Basolk"
+    ]
+  },
+  {
+    "name": "Azima",
+    "location": "Login Reward - 100/300/500/700"
+  },
+  {
+    "name": "Ballistica",
+    "location": "Market"
+  },
+  {
+    "name": "Bolto",
+    "location": "Market",
+    "isIngredient": [
+      "Akbolto",
+      "Hystrix"
+    ]
+  },
+  {
+    "name": "Brakk",
+    "location": "Drop - The Grustrag Three"
+  },
+  {
+    "name": "Bronco",
+    "location": "Market",
+    "isIngredient": [
+      "Akbronco"
+    ]
+  },
+  {
+    "name": "Catabolyst",
+    "location": "Clan - Bio Lab"
+  },
+  {
+    "name": "Cestra",
+    "location": "Market",
+    "isIngredient": [
+      "Dual Cestra"
+    ]
+  },
+  {
+    "name": "Cyanex",
+    "location": "Clan - Energy Lab"
+  },
+  {
+    "name": "Cycron",
+    "location": "Clan - Energy Lab"
+  },
+  {
+    "name": "Detron",
+    "location": "Drop - Zanuka Hunter"
+  },
+  {
+    "name": "Embolist",
+    "location": "Clan - Bio Lab"
+  },
+  {
+    "name": "Epitaph",
+    "location": "Mission - Void Storm"
+  },
+  {
+    "name": "Furis",
+    "location": "Market",
+    "isIngredient": [
+      "Afuris"
+    ]
+  },
+  {
+    "name": "Gammacor",
+    "location": "Market",
+    "isIngredient": [
+      "Heliocor"
+    ]
+  },
+  {
+    "name": "Grimoire",
+    "location": "Quest- Whispers in The Walls"
+  },
+  {
+    "name": "Hystrix",
+    "location": "Market",
+    "needsIngredient": [
+      "Bolto",
+      "Viper"
+    ]
+  },
+  {
+    "name": "Knell",
+    "location": "Market"
+  },
+  {
+    "name": "Kohmak",
+    "location": "Clan - Chem Lab",
+    "isIngredient": [
+      "Twin Kohmak"
+    ]
+  },
+  {
+    "name": "Kompressa",
+    "location": "Syndicate - Vent Kids"
+  },
+  {
+    "name": "Kraken",
+    "location": "Market",
+    "isIngredient": [
+      "Kulstar"
+    ]
+  },
+  {
+    "name": "Kulstar",
+    "location": "Market",
+    "needsIngredient": [
+      "Kraken"
+    ]
+  },
+  {
+    "name": "Lato",
+    "location": "Market",
+    "isIngredient": [
+      "Bolto"
+    ]
+  },
+  {
+    "name": "Lato Vandal",
+    "location": "Mission - Elite Sanctuary Onslaught"
+  },
+  {
+    "name": "Laetum",
+    "location": "Syndicate- The Holdfasts"
+  },
+  {
+    "name": "Lex",
+    "location": "Market",
+    "isIngredient": [
+      "Aklex"
+    ]
+  },
+  {
+    "name": "Magnus",
+    "location": "Market",
+    "isIngredient": [
+      "Akmagnus"
+    ]
+  },
+  {
+    "name": "Mara Detron",
+    "location": "Baro Ki'Teer"
+  },
+  {
+    "name": "Marelok",
+    "location": "Clan - Chem Lab"
+  },
+  {
+    "name": "Nukor",
+    "location": "Clan - Chem Lab"
+  },
+  {
+    "name": "Ocucor",
+    "location": "Clan - Energy Lab"
+  },
+  {
+    "name": "Onos",
+    "location": "Mission - Disruption Armatus"
+  },
+  {
+    "name": "Pandero",
+    "location": "Market"
+  },
+  {
+    "name": "Plinx",
+    "location": "Market"
+  },
+  {
+    "name": "Prisma Angstrum",
+    "location": "Baro Ki'Teer"
+  },
+  {
+    "name": "Pyrana",
+    "location": "Clan - Tenno Lab"
+  },
+  {
+    "name": "Quatz",
+    "location": "Market"
+  },
+  {
+    "name": "Rakta Ballistica",
+    "location": "Syndicate - Red Veil"
+  },
+  {
+    "name": "Seer",
+    "location": "Drop - Captain Vor (Mercury)"
+  },
+  {
+    "name": "Sepulcrum",
+    "location": "Syndicate - Entrati"
+  },
+  {
+    "name": "Sicarus",
+    "location": "Market"
+  },
+  {
+    "name": "Sonicor",
+    "location": "Market"
+  },
+  {
+    "name": "Spectra",
+    "location": "Clan - Energy Lab"
+  },
+  {
+    "name": "Spectra Vandal",
+    "location": "Mission - Veil Proxima Derelicts"
+  },
+  {
+    "name": "Stubba",
+    "location": "Mission - Ghoul Purge Event"
+  },
+  {
+    "name": "Stug",
+    "location": "Market"
+  },
+  {
+    "name": "Synoid Gammacor",
+    "location": "Syndicate - Cephalon Suda"
+  },
+  {
+    "name": "Tysis",
+    "location": "Market"
+  },
+  {
+    "name": "Vasto",
+    "location": "Market",
+    "isIngredient": [
+      "Akvasto",
+      "Redeemer"
+    ]
+  },
+  {
+    "name": "Vaykor Marelok",
+    "location": "Syndicate - Steel Meridian"
+  },
+  {
+    "name": "Velox",
+    "location": "Market"
+  },
+  {
+    "name": "Viper",
+    "location": "Market",
+    "isIngredient": [
+      "Twin Vipers",
+      "Hystrix"
+    ]
+  },
+  {
+    "name": "Viper Wraith",
+    "location": "Baro Ki'Teer"
+  },
+  {
+    "name": "Zakti",
+    "location": "Clan - Tenno Lab"
+  },
+  {
+    "name": "Zylok",
+    "location": "Baro Ki'Teer"
+  },
+  {
+    "name": "Zymos",
+    "location": "Syndicate - Entrati"
+  }
+]

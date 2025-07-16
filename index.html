@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Warframe Mastery Tracker</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="table.css" />
+  <link rel="stylesheet" href="tooltip.css" />
+</head>
+
+<body>
+  <div class="title">
+    <h1>Warframe Mastery Tracker</h1>
+    <h6>Update 35</h6>
+  </div>
+
+  <div class="filters">
+    <input type="text" id="searchInput" placeholder="Search by name..." onkeyup="filterTables()" />
+
+    <div>
+      <label for="locationFilters">🌐:</label>
+      <select name="locationFilters" id="locationDropdown" onchange="filterTables()">
+        <option value="all">All</option>
+        <option value="market">Market</option>
+        <option value="relic">Relic</option>
+        <option value="boss">Boss</option>
+        <option value="quest">Quest</option>
+        <option value="clan">Clan</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <div class="tab-buttons" id="tabButtons"></div>
+    <div class="tab-contents" id="tabContents"></div>
+  </div>
+
+  <div class="footer">
+    This was built based on the data from <a
+      href="https://www.reddit.com/r/Warframe/comments/1c6nxqo/warframe_mastery_checklist/" target="_blank">this</a>
+    checklist. Original layout by /u/Sekwah, adjusted by /u/Tykras. Updated for 26.1 by /u/FrToast. Updated for 30.0 by
+    Xenotater. Re-edited by wulfhart and DitzybDoo.
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

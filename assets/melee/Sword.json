@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Azothane",
+        "location": "Syndicate - Teshins Cave"
+    },
+    {
+        "name": "Broken War",
+        "location": "Quest - The Second Dream",
+        "isIngredient": [
+            "War"
+        ]
+    },
+    {
+        "name": "Cronus",
+        "location": "Drop - Captain Vor (Mercury)"
+    },
+    {
+        "name": "Dark Sword",
+        "location": "Nightwave Cred Offerings"
+    },
+    {
+        "name": "Dex Nikana",
+        "location": "Mission - Anniversary Alert"
+    },
+    {
+        "name": "Dragon Nikana",
+        "location": "Market",
+        "needsIngredient": [
+            "Nikana"
+        ]
+    },
+    {
+        "name": "Ether Sword",
+        "location": "Market"
+    },
+    {
+        "name": "Heat Sword",
+        "location": "Nightwave Cred Offerings"
+    },
+    {
+        "name": "Jaw Sword",
+        "location": "Nightwave Cred Offerings"
+    },
+    {
+        "name": "Krohkur",
+        "location": "Market",
+        "isIngredient": [
+            "Twin Korhkur"
+        ]
+    },
+    {
+        "name": "Mire",
+        "location": "Market"
+    },
+    {
+        "name": "Nikana",
+        "location": "Clan - Tenno Lab",
+        "isIngredient": [
+            "Dragon Nikana"
+        ]
+    },
+    {
+        "name": "Pangolin Sword",
+        "location": "Nightwave Cred Offerings"
+    },
+    {
+        "name": "Pennant",
+        "location": "Drop - Grineer Railjack Captain/Commanders"
+    },
+    {
+        "name": "Plasma Sword",
+        "location": "Nightwave Cred Offerings"
+    },
+    {
+        "name": "Prisma Skana",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Skana",
+        "location": "Market"
+    },
+    {
+        "name": "Skiajati",
+        "location": "Quest - The Sacrifice"
+    },
+    {
+        "name": "Sun & Moon",
+        "location": "Quest - The Duviri Paradox"
+    },
+    {
+        "name": "Syam",
+        "location": "Syndicate - Teshins Cave"
+    },
+    {
+        "name": "Tatsu",
+        "location": "Market"
+    }
+]

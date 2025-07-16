@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Boltace",
+        "location": "Market",
+        "needsIngredient": [
+            "Boltor",
+            "Kronen"
+        ]
+    },
+    {
+        "name": "Kronen",
+        "location": "Market",
+        "isIngredient": [
+            "Boltace"
+        ]
+    },
+    {
+        "name": "Ninkondi",
+        "location": "Market",
+        "isIngredient": [
+            "Shaku"
+        ]
+    },
+    {
+        "name": "Ohma",
+        "location": "Market"
+    },
+    {
+        "name": "Praedos",
+        "location": "Syndicate - The Holdfasts"
+    },
+    {
+        "name": "Prisma Ohma",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Pulmonars",
+        "location": "Market"
+    },
+    {
+        "name": "Shaku",
+        "location": "Clan - Tenno Lab",
+        "needsIngredient": [
+            "Ninkondi"
+        ]
+    },
+    {
+        "name": "Telos Boltace",
+        "location": "Syndicate - Arbiters of Hexis"
+    }
+]

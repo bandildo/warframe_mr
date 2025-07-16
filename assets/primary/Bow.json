@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Attica",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Cernos",
+        "location": "Market",
+        "isIngredient": [
+            "Mutualist Cernos"
+        ]
+    },
+    {
+        "name": "Cinta",
+        "location": "Enigma Puzzles in Duviri Experience"
+    },
+    {
+        "name": "Daikyu",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Dread",
+        "location": "Drop - Stalker"
+    },
+    {
+        "name": "Lenz",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Mutalist Cernos",
+        "location": "Market",
+        "needsIngredient": [
+            "Cernos"
+        ],
+        "isIngredient": [
+            "Proboscis Cernos"
+        ]
+    },
+    {
+        "name": "Nagantaka",
+        "location": "Market"
+    },
+    {
+        "name": "Nataruk",
+        "location": "Quest- The new war"
+    },
+    {
+        "name": "Paris",
+        "location": "Market"
+    },
+    {
+        "name": "Prisma Lenz",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Proboscis Cernos",
+        "location": "Market",
+        "needsIngredient": [
+            "Mutualist Cernos"
+        ]
+    },
+    {
+        "name": "Rakta Cernos",
+        "location": "Syndicate - Red Veil"
+    },
+    {
+        "name": "Zhuge",
+        "location": "Market"
+    }
+]

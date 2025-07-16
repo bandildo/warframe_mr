@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Amphis",
+        "location": "Market",
+        "isIngredient": [
+            "Sydon"
+        ]
+    },
+    {
+        "name": "Bo",
+        "location": "Market",
+        "isIngredient": [
+            "Tipedo",
+            "Cadus"
+        ]
+    },
+    {
+        "name": "Broken Scepter",
+        "location": "Quest - The War Within"
+    },
+    {
+        "name": "Cadus",
+        "location": "Market",
+        "needsIngredient": [
+            "Bo"
+        ]
+    },
+    {
+        "name": "Cassowar",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Edun",
+        "location": "Syndicate - Teshins Cave"
+    },
+    {
+        "name": "Guandao",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Kesheg",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Korumm",
+        "location": "Mission- Narmer Bounty"
+    },
+    {
+        "name": "Lesion",
+        "location": "Market",
+        "needsIngredient": [
+            "Tipedo"
+        ]
+    },
+    {
+        "name": "Orthos",
+        "location": "Market"
+    },
+    {
+        "name": "Pupacyst",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Serro",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Sydon",
+        "location": "Clan - Chem Lab",
+        "needsIngredient": [
+            "Amphis"
+        ]
+    },
+    {
+        "name": "Tipedo",
+        "location": "Market",
+        "isIngredient": [
+            "Lesion"
+        ],
+        "needsIngredient": [
+            "Kunai",
+            "Bo"
+        ]
+    },
+    {
+        "name": "Tonbo",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Vaykor Sydon",
+        "location": "Syndicate - Steel Meridian"
+    }
+]

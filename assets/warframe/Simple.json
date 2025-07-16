@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Ash",
+    "location": "Mission - Corpus Railjack Defense"
+  },
+  {
+    "name": "Atlas",
+    "location": "Quest - The Jordas Precept"
+  },
+  {
+    "name": "Banshee",
+    "location": "Clan - Tenno Lab"
+  },
+  {
+    "name": "Baruuk",
+    "location": "Syndicate - Vox Solaris"
+  },
+  {
+    "name": "Caliban",
+    "location": "Narmer Bounties  Fortuna/Cetus"
+  },
+  {
+    "name": "Citrine",
+    "location": "Mission- Mirror Defense Tyana Pass Mars"
+  },
+  {
+    "name": "Chroma",
+    "location": "Quest - The New Strange"
+  },
+  {
+    "name": "Dagath",
+    "location": "Dagaths Hollow Clan Dojo"
+  },
+  {
+    "name": "Dante",
+    "location": "Disruption Armatus Deimos"
+  },
+  {
+    "name": "Ember",
+    "location": "Boss - General Sargas Ruk (Saturn)"
+  },
+  {
+    "name": "Equinox",
+    "location": "Boss - Tyl Regor (Uranus)"
+  },
+  {
+    "name": "Excalibur",
+    "location": "Boss - Lieutenant Lech Kril (Mars)"
+  },
+  {
+    "name": "Frost",
+    "location": "Boss - Captain Vor & Lieutenant Lech Kril (Ceres)"
+  },
+  {
+    "name": "Gara",
+    "location": "Quest - Saya's Vigil"
+  },
+  {
+    "name": "Garuda",
+    "location": "Quest - Vox Solaris"
+  },
+  {
+    "name": "Gauss",
+    "location": "Mission - Disruption - Kelpie, Sedna"
+  },
+  {
+    "name": "Grendel",
+    "location": "Mission - Europa, locator missions"
+  },
+  {
+    "name": "Gyre",
+    "location": "Holdfast Bounties Chrysalith"
+  },
+  {
+    "name": "Harrow",
+    "location": "Quest - Chains of Harrow"
+  },
+  {
+    "name": "Hildryn",
+    "location": "Syndicate - Vox Solaris"
+  },
+  {
+    "name": "Hydroid",
+    "location": "Boss - Councilor Vay Hek (Earth)"
+  },
+  {
+    "name": "Inaros",
+    "location": "Quest - Sands of Inaros"
+  },
+  {
+    "name": "Ivara",
+    "location": "Mission - Spy"
+  },
+  {
+    "name": "Khora",
+    "location": "Mission - Sanctuary Onslaught"
+  },
+  {
+    "name": "Kullervo",
+    "location": "Boss- Kullervo/Orowyrm both"
+  },
+  {
+    "name": "Lavos",
+    "location": "Syndicate - Entrati"
+  },
+  {
+    "name": "Limbo",
+    "location": "Quest - The Limbo Theorem"
+  },
+  {
+    "name": "Loki",
+    "location": "Boss - Hyena Pack (Neptune)"
+  },
+  {
+    "name": "Mag",
+    "location": "Boss - The Sergeant (Phobos)"
+  },
+  {
+    "name": "Mesa",
+    "location": "Quest - Patient Zero"
+  },
+  {
+    "name": "Mirage",
+    "location": "Quest - Hidden Messages"
+  },
+  {
+    "name": "Nekros",
+    "location": "Boss - Lephantis (Derelict)"
+  },
+  {
+    "name": "Nezha",
+    "location": "Clan - Tenno Lab"
+  },
+  {
+    "name": "Nidus",
+    "location": "Quest - The Glast Gambit"
+  },
+  {
+    "name": "Nova",
+    "location": "Boss - Raptors (Europa)"
+  },
+  {
+    "name": "Nyx",
+    "location": "Boss - Phorid (Invasion Only)"
+  },
+  {
+    "name": "Oberon",
+    "location": "Mission - Grineer Proxima POIs"
+  },
+  {
+    "name": "Octavia",
+    "location": "Quest - Octavia's Anthem"
+  },
+  {
+    "name": "Protea",
+    "location": "Quest - The Deadlock Protocol"
+  },
+  {
+    "name": "Qorvex",
+    "location": "Quest- Whispers in the wall"
+  },
+  {
+    "name": "Revenant",
+    "location": "Quest - Nakak's Mini-Quest"
+  },
+  {
+    "name": "Rhino",
+    "location": "Boss - The Jackal (Venus)"
+  },
+  {
+    "name": "Saryn",
+    "location": "Boss - Kela De Thaym (Sedna)"
+  },
+  {
+    "name": "Sevagoth",
+    "location": "Quest - Call of the Tempestarii"
+  },
+  {
+    "name": "Styanax",
+    "location": "Chipper of Kahls Garrison"
+  },
+  {
+    "name": "Titania",
+    "location": "Quest - The Silver Grove"
+  },
+  {
+    "name": "Trinity",
+    "location": "Boss - Ambulas (Pluto)"
+  },
+  {
+    "name": "Valkyr",
+    "location": "Boss - Alad V (Jupiter)"
+  },
+  {
+    "name": "Vauban",
+    "location": "Mission - Alerts"
+  },
+  {
+    "name": "Volt",
+    "location": "Clan - Tenno Lab"
+  },
+  {
+    "name": "Voruna",
+    "location": "Mission-Conjunction Survival Yuvarium/ Circulus Lua"
+  },
+  {
+    "name": "Wisp",
+    "location": "Boss - Ropalolyst (Jupiter)"
+  },
+  {
+    "name": "Wukong",
+    "location": "Clan - Tenno Lab"
+  },
+  {
+    "name": "Xaku",
+    "location": "Quest - Heart of Deimos"
+  },
+  {
+    "name": "Yareli",
+    "location": "Quest The Waverider"
+  },
+  {
+    "name": "Zephyr",
+    "location": "Clan - Tenno Lab"
+  }
+]

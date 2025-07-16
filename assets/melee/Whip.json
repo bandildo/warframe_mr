@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Atterax",
+        "location": "Market"
+    },
+    {
+        "name": "Ceti Lacera",
+        "location": "Mission - Orphix?"
+    },
+    {
+        "name": "Dorrclave",
+        "location": "Dagaths Hollow - Clan Dojo"
+    },
+    {
+        "name": "Galvacord",
+        "location": "Market"
+    },
+    {
+        "name": "Jat Kusar",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Lacera",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Lecta",
+        "location": "Market"
+    },
+    {
+        "name": "Mios",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Scoliac",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Secura Lecta",
+        "location": "Syndicate - Perrin Sequence"
+    },
+    {
+        "name": "Verdilac",
+        "location": "Mission - Narmer Bounties"
+    }
+]

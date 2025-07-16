@@ -1,0 +1,270 @@
+[
+    {
+        "name": "Acceltra",
+        "location": "Drop - Demolisher Infested"
+    },
+    {
+        "name": "Aeolak",
+        "location": "Chrysalith Bounties"
+    },
+    {
+        "name": "Alternox",
+        "location": "Tier 3 Chrysalith Bounties"
+    },
+    {
+        "name": "Ambassador",
+        "location": "Mission Empyrean Survival"
+    },
+    {
+        "name": "Amprex",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Argonak",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Basmu",
+        "location": "Mission - Orphix?"
+    },
+    {
+        "name": "Battacor",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Baza",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Boltor",
+        "location": "Market",
+        "isIngredient": [
+            "Boltace"
+        ]
+    },
+    {
+        "name": "Braton",
+        "location": "Market"
+    },
+    {
+        "name": "Braton Vandal",
+        "location": "Mission - Elite Sanctuary Onslaught"
+    },
+    {
+        "name": "Bubonico",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Burston",
+        "location": "Market"
+    },
+    {
+        "name": "Buzlok",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Carmine Penta",
+        "location": "Mission - Pluto/Veil Proxima Derelicts"
+    },
+    {
+        "name": "Dera",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Dera Vandal",
+        "location": "Mission - Invasions"
+    },
+    {
+        "name": "Dex Sybaris",
+        "location": "Mission - Anniversary Alert"
+    },
+    {
+        "name": "Flux Rifle",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Fulmin",
+        "location": "Market"
+    },
+    {
+        "name": "Glaxion",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Glaxion Vandal",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Gorgon",
+        "location": "Drop - Heavy Gunner/Grineer Warden"
+    },
+    {
+        "name": "Gorgon Wraith",
+        "location": "Mission - Razorback Invasion"
+    },
+    {
+        "name": "Grakata",
+        "location": "Market",
+        "isIngredient": [
+            "Twin Grakatas"
+        ]
+    },
+    {
+        "name": "Grinlok",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Harpak",
+        "location": "Market"
+    },
+    {
+        "name": "Hema",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Hind",
+        "location": "Market"
+    },
+    {
+        "name": "Ignis",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Ignis Wraith",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Karak",
+        "location": "Market"
+    },
+    {
+        "name": "Karak Wraith",
+        "location": "Mission - Invasions"
+    },
+    {
+        "name": "Latron",
+        "location": "Market",
+        "isIngredient": [
+            "Tiberon"
+        ]
+    },
+    {
+        "name": "Latron Wraith",
+        "location": "Mission - Invasions"
+    },
+    {
+        "name": "Mutalist Quanta",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Opticor",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Opticor Vandal",
+        "location": "Mission - Thermia Fractures Event"
+    },
+    {
+        "name": "Paracyst",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Phenmor",
+        "location": "Syndicate- The Holdfasts"
+    },
+    {
+        "name": "Prisma Gorgon",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Prisma Grakata",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Prisma Grinlok",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Prisma Tetra",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Quanta",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Quanta Vandal",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Quartakk",
+        "location": "Mission - Ghoul Purge Event"
+    },
+    {
+        "name": "Quellor",
+        "location": "Drop - Grineer Railjack Captain/Commanders"
+    },
+    {
+        "name": "Shedu",
+        "location": "Quest - Erra"
+    },
+    {
+        "name": "Soma",
+        "location": "Market"
+    },
+    {
+        "name": "Stahlta",
+        "location": "Drop - Jackal (Venus)"
+    },
+    {
+        "name": "Stradavar",
+        "location": "Market"
+    },
+    {
+        "name": "Supra",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Supra Vandal",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Sybaris",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Synapse",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Telos Boltor",
+        "location": "Syndicate - Arbiters of Hexis"
+    },
+    {
+        "name": "Tenora",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Tetra",
+        "location": "Market"
+    },
+    {
+        "name": "Tiberon",
+        "location": "Market",
+        "needsIngredient": [
+            "Latron"
+        ]
+    },
+    {
+        "name": "Trumna",
+        "location": "Syndicate - Entrati"
+    },
+    {
+        "name": "Veldt",
+        "location": "Clan - Tenno lab"
+    },
+    {
+        "name": "Zenith",
+        "location": "Login Reward - 100/300/500/700"
+    }
+]

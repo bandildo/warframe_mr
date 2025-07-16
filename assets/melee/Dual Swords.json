@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Dex Dakra",
+        "location": "Mission - Anniversary Alert"
+    },
+    {
+        "name": "Dual Cleavers",
+        "location": "Market",
+        "isIngredient": [
+            "Ripkas"
+        ]
+    },
+    {
+        "name": "Dual Ether",
+        "location": "Market"
+    },
+    {
+        "name": "Dual Heat Swords",
+        "location": "Market"
+    },
+    {
+        "name": "Dual Ichor",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Dual Kamas",
+        "location": "Market",
+        "isIngredient": [
+            "Dual Raza"
+        ],
+        "needsIngredient": [
+            "Kama"
+        ]
+    },
+    {
+        "name": "Dual Keres",
+        "location": "Market"
+    },
+    {
+        "name": "Dual Raza",
+        "location": "Clan - Tenno Lab",
+        "needsIngredient": [
+            "Dual Kamas"
+        ]
+    },
+    {
+        "name": "Dual Skana",
+        "location": "Market",
+        "isIngredient": [
+            "Akjagara",
+            "Redeemer",
+            "Dark Split-Sword"
+        ]
+    },
+    {
+        "name": "Dual Zoren",
+        "location": "Market",
+        "isIngredient": [
+            "Twin Basolk"
+        ]
+    },
+    {
+        "name": "Nami Skyla",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Prisma Dual Cleavers",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Twin Basolk",
+        "location": "Market",
+        "needsIngredient": [
+            "Atomos",
+            "Dual Zoren"
+        ]
+    },
+    {
+        "name": "Twin Krohkur",
+        "location": "Clan - Chem Lab",
+        "needsIngredient": [
+            "Krohkur"
+        ]
+    }
+]

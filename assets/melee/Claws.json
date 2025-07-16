@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Ripkas",
+        "location": "Market",
+        "needsIngredient": [
+            "Dual Cleavers",
+            "Ankyros"
+        ]
+    },
+    {
+        "name": "Venka",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Keratinos",
+        "location": "Syndicate - Entrati"
+    }
+]

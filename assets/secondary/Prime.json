@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Afuris Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Akarius Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Akbolto Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Akbronco Prime",
+        "location": "Relics",
+        "needsIngredient": [
+            "Bronco Prime"
+        ]
+    },
+    {
+        "name": "Akjagara Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Aklex Prime",
+        "location": "Relics",
+        "needsIngredient": [
+            "Lex Prime"
+        ]
+    },
+    {
+        "name": "Akmagnus Prime",
+        "location": "Relics",
+        "needsIngredient": [
+            "Akmagnus Prime"
+        ]
+    },
+    {
+        "name": "Aksomati Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Akstiletto Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Akvasto Prime",
+        "location": "Relics",
+        "needsIngredient": [
+            "Vasto Prime"
+        ]
+    },
+    {
+        "name": "Ballistica Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Bronco Prime",
+        "location": "Relics",
+        "isIngredient": [
+            "Akbronco Prime"
+        ]
+    },
+    {
+        "name": "Euphona Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Hikou Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Hystrix Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Knell Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Lex Prime",
+        "location": "Relics",
+        "isIngredient": [
+            "Aklex Prime"
+        ]
+    },
+    {
+        "name": "Magnus Prime",
+        "location": "Relics",
+        "isIngredient": [
+            "Akmagnus Prime"
+        ]
+    },
+    {
+        "name": "Pandero Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Pyrana Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Sicarus Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Spira Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Vasto Prime",
+        "location": "Relics",
+        "isIngredient": [
+            "Akvasto Prime"
+        ]
+    },
+    {
+        "name": "Zakti Prime",
+        "location": "Relics"
+    },
+    {
+        "name": "Zylok Prime",
+        "location": "Relics"
+    }
+]

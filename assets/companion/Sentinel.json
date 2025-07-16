@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Carrier",
+        "location": "Market"
+    },
+    {
+        "name": "Dethcube",
+        "location": "Market"
+    },
+    {
+        "name": "Diriga",
+        "location": "Market"
+    },
+    {
+        "name": "Djinn",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Helios",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Oxylus",
+        "location": "Syndicate - Solaris United"
+    },
+    {
+        "name": "Prisma Shade",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Shade",
+        "location": "Market"
+    },
+    {
+        "name": "Taxon",
+        "location": "Market"
+    },
+    {
+        "name": "Wyrm",
+        "location": "Market"
+    },
+    {
+        "name": "Nautilus",
+        "location": "Mission - Neptune Proxima"
+    }
+]

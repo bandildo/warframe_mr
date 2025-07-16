@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Miter",
+        "location": "Drop - Lech Kril & Captain Vor (Ceres)",
+        "isIngredient": [
+            "Panthera"
+        ]
+    },
+    {
+        "name": "Ogris",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Panthera",
+        "location": "Market",
+        "needsIngredient": [
+            "Miter",
+            "Hikou"
+        ]
+    },
+    {
+        "name": "Penta",
+        "location": "Market"
+    },
+    {
+        "name": "Secura Penta",
+        "location": "Syndicate - Perrin Sequence"
+    },
+    {
+        "name": "Simulor",
+        "location": "Syndicate - Cephalon Simaris"
+    },
+    {
+        "name": "Synoid Simulor",
+        "location": "Syndicate - Cephalon Suda"
+    },
+    {
+        "name": "Tonkor",
+        "location": "Market"
+    },
+    {
+        "name": "Torid",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Zarr",
+        "location": "Market",
+        "needsIngredient": [
+            "Drakgoon"
+        ]
+    }
+]

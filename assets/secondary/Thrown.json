@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Aegrit",
+        "location": "Syndicate - Kahls Garrison"
+    },
+    {
+        "name": "Castanas",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Despair",
+        "location": "Drop - Stalker"
+    },
+    {
+        "name": "Fusilai",
+        "location": "Market"
+    },
+    {
+        "name": "Hikou",
+        "location": "Market",
+        "isIngredient": [
+            "Panthera"
+        ]
+    },
+    {
+        "name": "Kunai",
+        "location": "Market",
+        "isIngredient": "Tipedo"
+    },
+    {
+        "name": "Pox",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Sancti Castanas",
+        "location": "Syndicate - New Loka"
+    },
+    {
+        "name": "Spira",
+        "location": "Market"
+    },
+    {
+        "name": "Talons",
+        "location": "Clan - Tenno Lab"
+    }
+]

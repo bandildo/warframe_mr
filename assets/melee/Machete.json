@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Gazal Machete",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Kama",
+        "location": "Market",
+        "isIngredient": [
+            "Dual Kamas"
+        ]
+    },
+    {
+        "name": "Kreska",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Machete",
+        "location": "Login Reward (Random)"
+    },
+    {
+        "name": "Machete Wraith",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Nami Solo",
+        "location": "Market"
+    },
+    {
+        "name": "Prisma Machete",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Prova",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Prova Vandal",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Slaytra",
+        "location": "Syndicate - Kahls Garrison"
+    }
+]

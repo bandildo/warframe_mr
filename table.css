@@ -1,0 +1,74 @@
+table {
+    margin-top: 10px;
+    border-spacing: 0 5px;
+    width: 100%;
+}
+
+th {
+    background-color: #f4f4f4;
+    padding: 8px;
+}
+
+th,
+td {
+    border-bottom: 1px solid #ddd;
+    padding: 5px 5px;
+}
+
+.nameContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    align-items: center;
+    width: 100%;
+
+    div {
+        display: flex;
+        flex-direction: column;
+
+        span {
+            font-size: x-small;
+        }
+    }
+
+    img {
+        margin: 0px 5px;
+        max-width: 20px;
+    }
+}
+
+.locationContainer {
+    div {
+        display: flex;
+        flex-direction: column;
+
+        span {
+            font-size: x-small;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    .locationContainer {
+        div {
+            font-size: x-small;
+        }
+
+        span {
+            font-size: xx-small;
+        }
+    }
+}
+
+.checkboxContainer {
+    text-align: center;
+    width: 20px;
+}
+
+.acquired {
+    background-color: darkgoldenrod;
+}
+
+.mastered {
+    background-color: forestgreen;
+}

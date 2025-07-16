@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Arca Plasmor",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Astilla",
+        "location": "Market"
+    },
+    {
+        "name": "Boar",
+        "location": "Drop - Drekar Trooper"
+    },
+    {
+        "name": "Cedo",
+        "location": "Syndicate - Entrati"
+    },
+    {
+        "name": "Convectrix",
+        "location": "Clan - Energy Lab"
+    },
+    {
+        "name": "Corinth",
+        "location": "Market"
+    },
+    {
+        "name": "Drakgoon",
+        "location": "Market",
+        "isIngredient": [
+            "Zarr"
+        ]
+    },
+    {
+        "name": "Exergis",
+        "location": "Market"
+    },
+    {
+        "name": "Felarx",
+        "location": "Syndicate- The Holdfasts"
+    },
+    {
+        "name": "Hek",
+        "location": "Market"
+    },
+    {
+        "name": "Kohm",
+        "location": "Market"
+    },
+    {
+        "name": "Phage",
+        "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Phantasma",
+        "location": "Market"
+    },
+    {
+        "name": "Rauta",
+        "location": "Acrithis/Duviri"
+    },
+    {
+        "name": "Sancti Tigris",
+        "location": "Syndicate - New Loka"
+    },
+    {
+        "name": "Sobek",
+        "location": "Market"
+    },
+    {
+        "name": "Steflos",
+        "location": "Mission  - MIrror Defense Tyana Pass"
+    },
+    {
+        "name": "Strun",
+        "location": "Market"
+    },
+    {
+        "name": "Strun Wraith",
+        "location": "Mission - Invasions"
+    },
+    {
+        "name": "Tigris",
+        "location": "Market"
+    },
+    {
+        "name": "Vaykor Hek",
+        "location": "Syndicate - Steel Meridian"
+    }
+]

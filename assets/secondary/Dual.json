@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Afuris",
+    "location": "Market",
+    "needsIngredient": [
+      "Furis"
+    ]
+  },
+  {
+    "name": "Akarius",
+    "location": "Drop - Demolisher Infested"
+  },
+  {
+    "name": "Akbolto",
+    "location": "Market",
+    "isIngredient": [
+      "Akjagara"
+    ],
+    "needsIngredient": [
+      "Bolto"
+    ]
+  },
+  {
+    "name": "Akbronco",
+    "location": "Market",
+    "needsIngredient": [
+      "Bronco"
+    ]
+  },
+  {
+    "name": "Akjagara",
+    "location": "Market",
+    "needsIngredient": [
+      "Akbolto",
+      "Dual Skana"
+    ]
+  },
+  {
+    "name": "Aklato",
+    "location": "Market"
+  },
+  {
+    "name": "Aklex",
+    "location": "Market",
+    "needsIngredient": [
+      "Lex"
+    ]
+  },
+  {
+    "name": "Akmagnus",
+    "location": "Market",
+    "needsIngredient": [
+      "Magnus"
+    ]
+  },
+  {
+    "name": "Aksomati",
+    "location": "Market",
+    "needsIngredient": [
+      "Akstiletto"
+    ]
+  },
+  {
+    "name": "Akstiletto",
+    "location": "Clan - Tenno Lab",
+    "isIngredient": [
+      "Aksomati",
+      "Sarpa"
+    ]
+  },
+  {
+    "name": "Akvasto",
+    "location": "Market",
+    "needsIngredient": [
+      "Vasto"
+    ]
+  },
+  {
+    "name": "Akzani",
+    "location": "Market"
+  },
+  {
+    "name": "Dex Furis",
+    "location": "Mission - Anniversary Alert"
+  },
+  {
+    "name": "Dual Cestra",
+    "location": "Clan - Energy Lab",
+    "needsIngredient": [
+      "Cestra"
+    ]
+  },
+  {
+    "name": "Dual Toxocyst",
+    "location": "Clan - Bio Lab"
+  },
+  {
+    "name": "Prisma Twin Gremlins",
+    "location": "Baro Ki'Teer"
+  },
+  {
+    "name": "Secura Dual Cestra",
+    "location": "Syndicate - Perrin Sequence"
+  },
+  {
+    "name": "Staticor",
+    "location": "Clan - Energy Lab"
+  },
+  {
+    "name": "Telos Akbolto",
+    "location": "Syndicate - Arbiters of Hexis"
+  },
+  {
+    "name": "Twin Grakatas",
+    "location": "Market",
+    "needsIngredient": [
+      "Grakata"
+    ]
+  },
+  {
+    "name": "Twin Gremlins",
+    "location": "Drop - Lech Kril & Captain Vor (Ceres)"
+  },
+  {
+    "name": "Twin Kohmak",
+    "location": "Drop - Kela de Thaym (Sedna)",
+    "needsIngredient": [
+      "Kohmak"
+    ]
+  },
+  {
+    "name": "Twin Rogga",
+    "location": "Market"
+  },
+  {
+    "name": "Twin Vipers",
+    "location": "Market",
+    "needsIngredient": [
+      "Viper"
+    ]
+  },
+  {
+    "name": "Twin Vipers Wraith",
+    "location": "Mission - Invasions"
+  }
+]

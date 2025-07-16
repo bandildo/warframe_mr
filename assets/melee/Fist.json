@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Ankyros",
+        "location": "Market",
+        "isIngredient": [
+            "Ripkas",
+            "Tekko"
+        ]
+    },
+    {
+        "name": "Furax",
+        "location": "Market",
+        "isIngredient": [
+            "Knux"
+        ]
+    },
+    {
+        "name": "Furax Wraith",
+        "location": "Mission - Cetus Bounty"
+    },
+    {
+        "name": "Hirudo",
+        "location": "Market",
+        "needsIngredient": [
+            "Kogake"
+        ]
+    },
+    {
+        "name": "Kogake",
+        "location": "Market",
+        "isIngredient": [
+            "Hirudo"
+        ]
+    },
+    {
+        "name": "Korrudo",
+        "location": "Drop - Tusk Thumpers"
+    },
+    {
+        "name": "Obex",
+        "location": "Market"
+    },
+    {
+        "name": "Prisma Obex",
+        "location": "Baro Ki'Teer"
+    },
+    {
+        "name": "Tekko",
+        "location": "Market",
+        "needsIngredient": [
+            "Ankyros"
+        ]
+    },
+    {
+        "name": "Ruvox",
+        "location": "Mission - Disruption Armatus"
+    }
+]

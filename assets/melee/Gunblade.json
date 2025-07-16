@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Redeemer",
+        "location": "Market",
+        "needsIngredient": [
+            "Vasto",
+            "Dual Skana"
+        ]
+    },
+    {
+        "name": "Sarpa",
+        "location": "Market",
+        "needsIngredient": [
+            "Akstiletto"
+        ]
+    },
+    {
+        "name": "Stropha",
+        "location": "Drop - Jackal (Venus)"
+    },
+    {
+        "name": "Vastilok",
+        "location": "Baro Ki'Teer"
+    }
+]

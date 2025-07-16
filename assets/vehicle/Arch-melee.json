@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Agkuza",
+        "location": "Market"
+    },
+    {
+        "name": "Centaur",
+        "location": "Market"
+    },
+    {
+        "name": "Kaszas",
+        "location": "Market"
+    },
+    {
+        "name": "Knux",
+        "location": "Clan - Chem Lab",
+        "needsIngredient": [
+            "Furax"
+        ]
+    },
+    {
+        "name": "Onorix",
+        "location": "Market"
+    },
+    {
+        "name": "Prisma Veritux",
+        "location": "Baro Ki'teer"
+    },
+    {
+        "name": "Rathbone",
+        "location": "Market"
+    },
+    {
+        "name": "Veritux",
+        "location": "Comes w/ Odonata"
+    }
+]

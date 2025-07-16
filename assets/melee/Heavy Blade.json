@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Dark Split-Sword",
+        "location": "Clan - Tenno Lab",
+        "needsIngredient": [
+            "Dual Skana"
+        ]
+    },
+    {
+        "name": "Galatine",
+        "location": "Market",
+        "isIngredient": [
+            "Paracesis"
+        ]
+    },
+    {
+        "name": "Gram",
+        "location": "Market"
+    },
+    {
+        "name": "Masseter",
+        "location": "Clan - Tenno Lab"
+    },
+    {
+        "name": "Paracesis",
+        "location": "Quest - Chimera Prologue",
+        "needsIngredient": [
+            "Galatine"
+        ]
+    },
+    {
+        "name": "Sarofang",
+        "location": "Mission- Conjunction Survival"
+    },
+    {
+        "name": "Scindo",
+        "location": "Market"
+    },
+    {
+        "name": "Vitrica",
+        "location": "Drop - Nihil"
+    },
+    {
+        "name": "War",
+        "location": "Drop - Shadow Stalker",
+        "needsIngredient": [
+            "Broken War"
+        ]
+    },
+    {
+        "name": "Zenistar",
+        "location": "Login Reward - 100/300/500/700"
+    }
+]

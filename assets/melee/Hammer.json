@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Arca Titron",
+        "location": "Market"
+    },
+    {
+        "name": "Ekhein",
+        "location": "Syndicate - Cavia"
+    },
+    {
+        "name": "Fragor",
+        "location": "Market"
+    },
+    {
+        "name": "Heliocor",
+        "location": "Syndicate - Cephalon Simaris",
+        "needsIngredient": [
+            "Gammacor"
+        ]
+    },
+    {
+        "name": "Jat Kittag",
+        "location": "Clan - Chem Lab"
+    },
+    {
+        "name": "Magistar",
+        "location": "Market",
+        "isIngredient": [
+            "Sibear"
+        ]
+    },
+    {
+        "name": "Sampotes",
+        "location": "Syndicate - Teshins Cave"
+    },
+    {
+        "name": "Sancti Magistar",
+        "location": "Syndicate - New Loka"
+    },
+    {
+        "name": "Sibear",
+        "location": "Market",
+        "needsIngredient": [
+            "Magistar"
+        ]
+    },
+    {
+        "name": "Synoid Heliocor",
+        "location": "Syndicate - Cephalon Suda"
+    },
+    {
+        "name": "Volnus",
+        "location": "Market"
+    },
+    {
+        "name": "Wolf Sledge",
+        "location": "Drop - Wolf of Saturn Six"
+    }
+]
