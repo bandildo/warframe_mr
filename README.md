@@ -1,6 +1,6 @@
 # Warframe Mastery Tracker
 
-https://bandildo.github.io/warframe/
+https://bandildo.github.io/warframe_mr/
 
 Mobile friendly webpage which helps track which Warframe items have been acquired 🛠️ and which have been mastered 👑
 
