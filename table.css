@@ -7,6 +7,11 @@ table {
 th {
     background-color: #f4f4f4;
     padding: 8px;
+
+    img {
+        width: 25px;
+        height: 25px;
+    }
 }
 
 th,

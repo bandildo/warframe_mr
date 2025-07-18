@@ -72,13 +72,9 @@ function createTab(tabName, data, isFirst) {
   const thead = document.createElement('thead');
   const tbody = document.createElement('tbody');
 
-  const headers = ['Name', '🌐', '🛠️', '👑'];
-  const headerRow = document.createElement('tr');
-  headers.forEach(key => {
-    const tableHeader = document.createElement('th');
-    tableHeader.textContent = key;
-    headerRow.appendChild(tableHeader);
-  });
+
+  const headerRow = createHeaders()
+
   thead.appendChild(headerRow);
 
   data.forEach(item => {
@@ -288,6 +284,34 @@ function getUrl(item) {
   return baseUrl + path
 }
 
+function createHeaders() {
+  const headerRow = document.createElement('tr');
+
+  const nameHeader = document.createElement('th');
+  nameHeader.textContent = 'Name';
+  headerRow.appendChild(nameHeader);
+
+  const locationHeader = document.createElement('th');
+  const locationHeaderIcon = document.createElement('img');
+  locationHeaderIcon.src = './assets/icons/location.svg';
+  locationHeader.appendChild(locationHeaderIcon);
+  headerRow.appendChild(locationHeader);
+
+  const acquiredHeader = document.createElement('th');
+  const acquiredHeaderIcon = document.createElement('img');
+  acquiredHeaderIcon.src = './assets/icons/acquired.svg';
+  acquiredHeader.appendChild(acquiredHeaderIcon);
+  headerRow.appendChild(acquiredHeader);
+
+  const masteredHeader = document.createElement('th');
+  const masteredHeaderIcon = document.createElement('img');
+  masteredHeaderIcon.src = './assets/icons/warframe.svg';
+  masteredHeader.appendChild(masteredHeaderIcon);
+  headerRow.appendChild(masteredHeader);
+
+  return headerRow
+}
+
 async function getJsonFiles(path) {
   const map = {
     'warframe': [
@@ -366,7 +390,7 @@ async function getJsonFiles(path) {
   };
 
   return (map[path] || []).map(filename => ({
-    fullPath: `assets/${path}/${filename}`,
+    fullPath: `assets/data/${path}/${filename}`,
     type: path.charAt(0).toUpperCase() + path.slice(1),
     subtype: filename.replace('.json', ''),
   }));

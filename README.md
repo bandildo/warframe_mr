@@ -8,6 +8,10 @@ Mobile friendly webpage which helps track which Warframe items have been acquire
 - quickly see if it is okay to sell a mastered weapon (e.g. not an ingredient to another weapon, and easy to acquire)
 - mobile friendly for a quick update while you are playing
 
+## Sources
+Warframe data taken mainly from here (until update 35): https://www.reddit.com/r/Warframe/comments/1c6nxqo/warframe_mastery_checklist/
+Icons: https://www.svgrepo.com/collection/responsive-solid-icons/
+
 ## Contribution
 Feel free to create a pull request with updated data.
 

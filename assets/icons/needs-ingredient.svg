@@ -6,6 +6,6 @@
     </marker>
   </defs>
   <circle cx="20" cy="25" r="20" fill="lightgray" />
-  <circle cx="100" cy="25" r="20" fill="#1aaabd" />
+  <circle cx="100" cy="25" r="20" fill="#0b81a0" />
   <line x1="40" y1="25" x2="80" y2="25" stroke="black" stroke-width="2" marker-end="url(#arrowhead)" />
 </svg>
