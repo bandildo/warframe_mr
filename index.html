@@ -25,8 +25,8 @@
       <button id="backupButton" onclick="downloadBackup()">Download Backup</button>
       <hr>
       <div class="restoreBackupContainer">
-        <input type="text" id="backupInput" placeholder="Paste your data here" />
-        <button onclick="restoreBackup()">Restore data</button>
+        <input type="text" id="backupInput" placeholder="Paste your data here" oninput="onInputChange()" />
+        <button id="restoreButton" onclick="restoreBackup()" disabled>Restore data</button>
         <p>⚠️ This will immediately override your data in this browser, regardless if it is valid or not!</p>
       </div>
     </div>

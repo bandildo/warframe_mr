@@ -1,14 +1,17 @@
 function openModal() {
     document.getElementById('settingsModal').style.display = 'block';
+    updateRestoreButtonState();
 }
 
 function closeModal() {
     document.getElementById('settingsModal').style.display = 'none';
+    document.getElementById('backupInput').value = '';
 }
 
 window.onclick = function (event) {
     const modal = document.getElementById('settingsModal');
     if (event.target === modal) {
+        document.getElementById('backupInput').value = '';
         modal.style.display = 'none';
     }
 };
@@ -32,5 +35,19 @@ function restoreBackup() {
         location.reload(); // Reload to apply changes
     } else {
         alert('Please enter a valid backup data.');
+    }
+}
+
+function onInputChange() {
+    updateRestoreButtonState();
+}
+
+function updateRestoreButtonState() {
+    const input = document.getElementById('backupInput').value;
+    if (input !== '') {
+        document.getElementById('restoreButton').disabled = false;
+    }
+    else {
+        document.getElementById('restoreButton').disabled = true;
     }
 }
