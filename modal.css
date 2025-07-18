@@ -28,8 +28,8 @@
     }
 
     #restoreButton {
-        width: 50%;
-        border-color: orangered;
+        width: 40%;
+        color: orangered
     }
 
     button {
