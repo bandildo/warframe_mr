@@ -39,11 +39,13 @@ window.onload = async () => {
 
       const combined = data.flat();
       allData.push(...combined);
-      return { tabName, data: combined };
+
+      return { tabName, data: combined.sort((a, b) => a.name.localeCompare(b.name)) };
     })
   );
 
-  createTab('All', allData, true);
+
+  createTab('All', allData.sort((a, b) => a.name.localeCompare(b.name)), true);
   folderData.forEach(({ tabName, data }) => createTab(tabName, data, false));
 };
 
