@@ -1,3 +1,18 @@
+function openModal() {
+    document.getElementById('settingsModal').style.display = 'block';
+}
+
+function closeModal() {
+    document.getElementById('settingsModal').style.display = 'none';
+}
+
+window.onclick = function (event) {
+    const modal = document.getElementById('settingsModal');
+    if (event.target === modal) {
+        modal.style.display = 'none';
+    }
+};
+
 function downloadBackup() {
     const data = localStorage.getItem(`data_v${STORAGE_VERSION}`)
     if (data) {

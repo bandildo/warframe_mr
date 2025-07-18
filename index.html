@@ -8,12 +8,28 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="table.css" />
   <link rel="stylesheet" href="tooltip.css" />
+  <link rel="stylesheet" href="modal.css" />
 </head>
 
 <body>
-  <div class="title">
-    <h1>Warframe Mastery Tracker</h1>
-    <h6>Update 39</h6>
+  <div class="titleContainer">
+    <div class="title">
+      <h1> Mastery Tracker</h1>
+      <h6>Update 39</h6>
+    </div>
+    <img src="./assets/icons/cog.svg" onclick="openModal()">
+  </div>
+
+  <div id="settingsModal" class="modal">
+    <div class="settingsModalContent">
+      <button id="backupButton" onclick="downloadBackup()">Download Backup</button>
+      <hr>
+      <div class="restoreBackupContainer">
+        <input type="text" id="backupInput" placeholder="Paste your data here" />
+        <button onclick="restoreBackup()">Restore data</button>
+        <p>⚠️ This will immediately override your data in this browser, regardless if it is valid or not!</p>
+      </div>
+    </div>
   </div>
 
   <div class="filters">
@@ -36,14 +52,6 @@
     <div class="tab-buttons" id="tabButtons"></div>
     <div class="tab-contents" id="tabContents"></div>
   </div>
-
-  <div class="backup">
-    <button id="backupButton" onclick="downloadBackup()">Download Backup</button>
-
-    <input type="text" id="backupInput" />
-    <button onclick="restoreBackup()">Save</button>
-  </div>
-
 
   <div class="footer">
     This was built based on the data from <a

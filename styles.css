@@ -16,15 +16,35 @@ body {
   }
 }
 
-.title {
-  h1 {
-    margin-bottom: 5px;
+.titleContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  img {
+    /*TODO: this should be more global*/
+    width: 25px;
+    height: 25px;
+
+    cursor: pointer;
+    padding: 3px;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: var(--base);
   }
 
-  h6 {
-    margin-top: 0px;
+  .title {
+    h1 {
+      margin-bottom: 5px;
+    }
+
+    h6 {
+      margin-top: 0px;
+    }
   }
 }
+
 
 .filters {
   display: flex;
