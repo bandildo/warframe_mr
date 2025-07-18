@@ -27,6 +27,11 @@
         width: 100%;
     }
 
+    #restoreButton {
+        width: 50%;
+        border-color: orangered;
+    }
+
     button {
         min-height: 30px;
     }
