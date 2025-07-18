@@ -73,6 +73,10 @@
     "location": "Drop - Zanuka Hunter"
   },
   {
+    "name": "EFV-8 Mars",
+    "location": "Mission - Stage Defense in Höllvania"
+  },
+  {
     "name": "Embolist",
     "location": "Clan - Bio Lab"
   },
@@ -209,6 +213,10 @@
     "location": "Syndicate - Red Veil"
   },
   {
+    "name": "Riot-848",
+    "location": "Mission - Stage Defense in Höllvania"
+  },
+  {
     "name": "Seer",
     "location": "Drop - Captain Vor (Mercury)"
   },
@@ -263,6 +271,10 @@
   {
     "name": "Velox",
     "location": "Market"
+  },
+  {
+    "name": "Vesper",
+    "location": "Höllvania Bounties"
   },
   {
     "name": "Viper",

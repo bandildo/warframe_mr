@@ -4,6 +4,10 @@
         "location": "Syndicate - Kahls Garrison"
     },
     {
+        "name": "Cantare",
+        "location": "Ascension - Brutus (Uranus)"
+    },
+    {
         "name": "Castanas",
         "location": "Clan - Tenno Lab"
     },
@@ -34,6 +38,10 @@
     {
         "name": "Sancti Castanas",
         "location": "Syndicate - New Loka"
+    },
+    {
+        "name": "Scyotid",
+        "location": "Isleweaver - Duviri"
     },
     {
         "name": "Spira",

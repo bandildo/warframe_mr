@@ -79,6 +79,10 @@
         "location": "Mission - Anniversary Alert"
     },
     {
+        "name": "EFV-5 Jupiter",
+        "location": "Syndicate - The Hex"
+    },
+    {
         "name": "Flux Rifle",
         "location": "Clan - Energy Lab"
     },
@@ -120,6 +124,10 @@
     {
         "name": "Hema",
         "location": "Clan - Bio Lab"
+    },
+    {
+        "name": "Higasa",
+        "location": "Mission - Shrine Defense in Saya's Vision (Earth)"
     },
     {
         "name": "Hind",
@@ -189,6 +197,10 @@
         "location": "Baro Ki'Teer"
     },
     {
+        "name": "Purgator 1",
+        "location": "Syndicate - The Hex"
+    },
+    {
         "name": "Quanta",
         "location": "Clan - Energy Lab"
     },
@@ -203,6 +215,10 @@
     {
         "name": "Quellor",
         "location": "Drop - Grineer Railjack Captain/Commanders"
+    },
+    {
+        "name": "Reconifex",
+        "location": "Höllvania Bounties"
     },
     {
         "name": "Shedu",

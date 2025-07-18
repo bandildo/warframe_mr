@@ -17,7 +17,7 @@
   },
   {
     "name": "Caliban",
-    "location": "Narmer Bounties  Fortuna/Cetus"
+    "location": "Narmer Bounties - Fortuna / Cetus"
   },
   {
     "name": "Citrine",
@@ -26,6 +26,10 @@
   {
     "name": "Chroma",
     "location": "Quest - The New Strange"
+  },
+  {
+    "name": "Cyte-09",
+    "location": "Quest - The Hex"
   },
   {
     "name": "Dagath",
@@ -61,7 +65,7 @@
   },
   {
     "name": "Gauss",
-    "location": "Mission - Disruption - Kelpie, Sedna"
+    "location": "Mission - Disruption in Kelpie (Sedna)"
   },
   {
     "name": "Grendel",
@@ -92,8 +96,16 @@
     "location": "Mission - Spy"
   },
   {
+    "name": "Jade",
+    "location": "Quest - Jade Shadows"
+  },
+  {
     "name": "Khora",
     "location": "Mission - Sanctuary Onslaught"
+  },
+  {
+    "name": "Koumei",
+    "location": "Mission - Shrine Defense in Saya's Vision (Earth)"
   },
   {
     "name": "Kullervo",
@@ -152,6 +164,10 @@
     "location": "Quest - Octavia's Anthem"
   },
   {
+    "name": "Oraxia",
+    "location": "Isleweaver - Duviri"
+  },
+  {
     "name": "Protea",
     "location": "Quest - The Deadlock Protocol"
   },
@@ -180,6 +196,10 @@
     "location": "Chipper of Kahls Garrison"
   },
   {
+    "name": "Temple",
+    "location": "Mission - Stage Defense in Höllvania"
+  },
+  {
     "name": "Titania",
     "location": "Quest - The Silver Grove"
   },
@@ -201,7 +221,7 @@
   },
   {
     "name": "Voruna",
-    "location": "Mission-Conjunction Survival Yuvarium/ Circulus Lua"
+    "location": "Mission - Conjunction Survival Yuvarium / Circulus Lua"
   },
   {
     "name": "Wisp",
