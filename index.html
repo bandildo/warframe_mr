@@ -37,6 +37,14 @@
     <div class="tab-contents" id="tabContents"></div>
   </div>
 
+  <div class="backup">
+    <button id="backupButton" onclick="downloadBackup()">Download Backup</button>
+
+    <input type="text" id="backupInput" />
+    <button onclick="restoreBackup()">Save</button>
+  </div>
+
+
   <div class="footer">
     This was built based on the data from <a
       href="https://www.reddit.com/r/Warframe/comments/1c6nxqo/warframe_mastery_checklist/" target="_blank">this</a>
@@ -45,6 +53,7 @@
   </div>
 
   <script src="script.js"></script>
+  <script src="backup.js"></script>
 </body>
 
 </html>
