@@ -1,4 +1,3 @@
-// TODO: extract part of this to own HTML
 function getNameElement(item) {
     const nameContainer = document.createElement('td');
     nameContainer.classList.add('nameContainer')
@@ -25,7 +24,6 @@ function getNameElement(item) {
     return nameContainer
 }
 
-// TODO: extract part of this to own HTML
 function getUrl(item) {
     const path = item.redirect ? item.redirect : item.name.replace(/ /g, "_");
     return baseUrl + path
@@ -71,9 +69,22 @@ function createIngredientElements(item) {
 
 function getIngredientsList(items) {
     const list = document.createElement('ul');
-    items.forEach(text => {
+    items.forEach(item => {
         const li = document.createElement('li');
-        li.textContent = text;
+
+        const liContainer = document.createElement('div');
+        liContainer.className = 'liContainer';
+
+        const itemName = document.createElement('p');
+        itemName.textContent = item;
+        liContainer.appendChild(itemName);
+
+        const masteryIcon = document.createElement('img');
+        masteryIcon.src = savedData.get(item)?.mastered ? './assets/icons/warframe_green.svg' : './assets/icons/warframe_red.svg';
+        liContainer.appendChild(masteryIcon);
+
+        li.appendChild(liContainer);
+
         list.appendChild(li);
     });
     return list
