@@ -16,11 +16,12 @@ let savedData = new Map(
   JSON.parse(localStorage.getItem(`data_v${STORAGE_VERSION}`)) || []
 );
 
+const allData = [];
+
 window.onload = async () => {
   const tabButtons = document.getElementById('tabButtons');
   const tabContents = document.getElementById('tabContents');
 
-  const allData = [];
 
   const folderData = await Promise.all(
     folders.map(async ({ path, tabName }) => {

@@ -10,7 +10,7 @@
     background-color: rgba(0, 0, 0, 0.4);
 }
 
-.settingsModalContent {
+.modalContent {
     background-color: #fff;
     margin: 15% auto;
     padding: 20px;
@@ -21,6 +21,9 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+.settingsModalContent {
 
     button,
     hr {

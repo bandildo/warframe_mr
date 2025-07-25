@@ -1,20 +1,23 @@
-function openModal() {
-    document.getElementById('settingsModal').style.display = 'block';
+const settingsModal = document.getElementById('settingsModal');
+
+function openSettingsModal() {
+    settingsModal.style.display = 'block';
     updateRestoreButtonState();
 }
 
 function closeModal() {
-    document.getElementById('settingsModal').style.display = 'none';
+    document.getAllElementsByClassName('modal').forEach(modal => {
+        modal.style.display = 'none';
+    });
     document.getElementById('backupInput').value = '';
 }
 
-window.onclick = function (event) {
-    const modal = document.getElementById('settingsModal');
-    if (event.target === modal) {
+window.addEventListener('click', function (event) {
+    if (event.target === settingsModal) {
         document.getElementById('backupInput').value = '';
-        modal.style.display = 'none';
+        settingsModal.style.display = 'none';
     }
-};
+});
 
 function downloadBackup() {
     const data = localStorage.getItem(`data_v${STORAGE_VERSION}`)
