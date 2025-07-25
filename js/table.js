@@ -38,6 +38,8 @@ function getAqcquiredElement(item, savedItem, row) {
 }
 
 function onAcquiredCheckboxToggle(item, state, row) {
+    let savedData = getSavedData();
+
     const itemStatus = savedData.get(item.name);
     const newData = {
         acquired: state,
@@ -69,6 +71,8 @@ function getMasteredElement(item, savedItem, row) {
 }
 
 function onMasteredCheckboxToggle(item, state, row) {
+    let savedData = getSavedData();
+
     const itemStatus = savedData.get(item.name);
     const newData = {
         acquired: itemStatus ? itemStatus.acquired : false,

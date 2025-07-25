@@ -10,13 +10,15 @@ const folders = [
 
 const baseUrl = "https://wiki.warframe.com/w/"
 
-const STORAGE_VERSION = 1
-
-let savedData = new Map(
-  JSON.parse(localStorage.getItem(`data_v${STORAGE_VERSION}`)) || []
-);
+const STORAGE_VERSION = 1;
 
 const allData = [];
+
+function getSavedData() {
+  return new Map(
+    JSON.parse(localStorage.getItem(`data_v${STORAGE_VERSION}`)) || []
+  );
+}
 
 window.onload = async () => {
   const tabButtons = document.getElementById('tabButtons');

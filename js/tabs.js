@@ -15,6 +15,8 @@ function createTab(tabName, data, isFirst) {
 
     const tbody = document.createElement('tbody');
 
+    let savedData = getSavedData();
+
     data.forEach(item => {
         const row = document.createElement('tr');
         row.classList.add('data-row');

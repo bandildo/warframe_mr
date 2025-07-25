@@ -80,7 +80,7 @@ function getIngredientsList(items) {
         liContainer.appendChild(itemName);
 
         const masteryIcon = document.createElement('img');
-        masteryIcon.src = savedData.get(item)?.mastered ? './assets/icons/warframe_green.svg' : './assets/icons/warframe_red.svg';
+        masteryIcon.src = getSavedData().get(item)?.mastered ? './assets/icons/warframe_green.svg' : './assets/icons/warframe_red.svg';
         liContainer.appendChild(masteryIcon);
 
         li.appendChild(liContainer);
